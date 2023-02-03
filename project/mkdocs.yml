@@ -1,0 +1,8 @@
+site_name: projekt_it
+nav:
+  - index.md
+theme: material
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
