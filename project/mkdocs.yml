@@ -11,4 +11,6 @@ markdown_extensions:
 doku doku und noch mehr doku
 
 03.02.2023
-Erstellen eines MkDocs für gemeinsame Dokumentation 
+Erstellen eines Mkdocs für gemeinsame Dokumentation 
+Wir haben die Anleitung welche aus dem Ausschnitt der CT Stammte verwendet um eine erste Dokumentation zu erstellen.
+Nachdem wir den Projektordner angelegt hatten, wurde dieser via Push Befehl in unser Re
