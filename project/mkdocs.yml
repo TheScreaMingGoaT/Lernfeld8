@@ -8,13 +8,26 @@ markdown_extensions:
   - pymdownx.superfences
 
 
-doku doku und noch mehr doku
+# Dokumentation
 
-03.02.2023
-Erstellen eines Mkdocs für gemeinsame Dokumentation 
-Wir haben die Anleitung welche aus dem Ausschnitt der CT Stammte verwendet um eine erste Dokumentation zu erstellen.
-Nachdem wir den Projektordner angelegt hatten, wurde dieser via Push Befehl in unser Re
+## 03.02.2023
 
-10.02.2023
-Kontrolle und erweiterung unseres Uscases Diagramm (Phase 1)
-b
+### Erstellen eines Mkdocs für gemeinsame Dokumentation 
+
+MKdocs haben wir mit einer Dokumentation von CT zum laufen gebracht.
+
+Den Projektordner haben wir mit der MKDocs CLI erstellt und dann diesen in unser geteiltes Repository gepushed
+
+
+## 10.02.2023
+
+### Interview mit Herrn Burggraf zu Phasse -> Use-Case Diagramm
+Neuerstellen des Diagramms, da erste Fassung zu primitiv war
+
+nach Erstellung Verschönerungsarbeiten am Dokument durchgeführt
+
+### Überarbeiten der MKDocs Dokumentation
+Weiterführung der angefangenen Dokumentation
+
+Anpassen und formatieren der Einträge
+
