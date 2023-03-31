@@ -57,7 +57,8 @@ Primär zum Austausch von Karasseriedaten und Gussteilen
 
 .dxf      ASCII- oder binäres Dateiformat zum Austausch von Vektordaten zwischen CAD-Programmen
 		  Von Autodesk entwickelt, spielt es vor allen Dingen als Schnittstelle von und nach AutoCAD eine Rolle
-		  
+		  Ist zu verwenden beim Digitalisieren von "Analog-Grundrissen (.PDF)"
+
 Grundriss Allplan ArchiCAD  AutoCAD nutzen .DWG
 
 Raumplan .dwg Drawing (.PLN ArchiCAD) (AllPlan-Dateien .NDW)
