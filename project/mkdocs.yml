@@ -31,3 +31,26 @@ Weiterführung der angefangenen Dokumentation
 
 Anpassen und formatieren der Einträge
 
+## 31.03.2023
+
+### Recherche zu CAD Dateiformaten.
+
+### einige Beispiele
+
+#### .stl
+
+Beschreibt Oberfläche von 3D Körpern mit Dreiecksfacetten
+
+#### .vrml
+
+triangulierte Oberflächen; vermeidet Redundanzen
+
+#### .stp, .step
+
+Standard for the Exchange of Product model data
+
+#### .vda
+
+Primär zum Austausch von Karasseriedaten und Gussteilen
+
+
