@@ -53,4 +53,17 @@ Standard for the Exchange of Product model data
 
 Primär zum Austausch von Karasseriedaten und Gussteilen
 
+#########################
+
+.dxf      ASCII- oder binäres Dateiformat zum Austausch von Vektordaten zwischen CAD-Programmen
+		  Von Autodesk entwickelt, spielt es vor allen Dingen als Schnittstelle von und nach AutoCAD eine Rolle
+Grundriss Allplan ArchiCAD  AutoCAD nutzen .DWG
+
+Raumplan .dwg Drawing (.PLN ArchiCAD) (AllPlan-Dateien .NDW)
+
+
+Netzwerkplan .IFC Industry Foundation Classes (IFC) nicht-proprietäre BIM-Format 
+
+Haubt CAD programm: AllPlan da am meisten Pluripotent bei den verschiedenen Dateiformaten
+
 
