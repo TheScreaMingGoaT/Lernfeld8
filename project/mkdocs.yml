@@ -69,3 +69,7 @@ Netzwerkplan .IFC Industry Foundation Classes (IFC) nicht-proprietäre BIM-Forma
 Haupt-CAD-Programm: AllPlan da am meisten Pluripotent bei den verschiedenen Dateiformaten
 
 
+Nach Absprache mit Burgraf
+Wir gehen davon aus, dass im AD bereits Benutzergruppen existieren und die SQL-DB mit dem AD Synchronisiert ist.
+SQL befehle für den Abgleich???
+-	Benutzer werden erst im AD Angelegt und dann den Benutzergruppen zugeordnet
