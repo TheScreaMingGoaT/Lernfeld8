@@ -21,29 +21,29 @@ Den Projektordner haben wir mit der MKDocs CLI erstellt und dann diesen in unser
 
 ## 10.02.2023
 
-### Interview mit Herrn Burggraf zu Phasse -> Use-Case Diagramm
+### Interview mit Herrn Burggraf zu Phase -> Use-Case Diagramm
 Neuerstellen des Diagramms, da erste Fassung zu primitiv war
 
 nach Erstellung Verschönerungsarbeiten am Dokument durchgeführt
 
-### Überarbeiten der MKDocs Dokumentation
+### Überarbeiten der MKDocs-Dokumentation
 Weiterführung der angefangenen Dokumentation
 
-Anpassen und formatieren der Einträge
+Anpassen und Formatieren der Einträge
 
 ## 31.03.2023
 
-### Recherche zu CAD Dateiformaten.
+### Recherche zu CAD-Dateiformaten.
 
 ### einige Beispiele
 
 #### .stl
 
-Beschreibt Oberfläche von 3D Körpern mit Dreiecksfacetten
+Beschreibt Oberfläche von 3D-Körpern mit Dreiecksfacetten
 
 #### .vrml
 
-triangulierte Oberflächen; vermeidet Redundanzen
+Triangulierte Oberflächen; vermeidet Redundanzen
 
 #### .stp, .step
 
@@ -51,7 +51,7 @@ Standard for the Exchange of Product model data
 
 #### .vda
 
-Primär zum Austausch von Karasseriedaten und Gussteilen
+Primär zum Austausch von Karosseriedaten und Gussteilen
 
 ############################################################################
 
@@ -66,6 +66,6 @@ Raumplan .dwg Drawing (.PLN ArchiCAD) (AllPlan-Dateien .NDW)
 
 Netzwerkplan .IFC Industry Foundation Classes (IFC) nicht-proprietäre BIM-Format Sollte für den Austausch mit KD verwendet werden bei 3D Dateien
 
-Haubt CAD programm: AllPlan da am meisten Pluripotent bei den verschiedenen Dateiformaten
+Haupt-CAD-Programm: AllPlan da am meisten Pluripotent bei den verschiedenen Dateiformaten
 
 
