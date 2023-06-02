@@ -21,10 +21,10 @@ Den Projektordner haben wir mit der MKDocs CLI erstellt und dann diesen in unser
 
 ## 10.02.2023
 
-### Interview mit Herrn Burggraf zu Phase -> Use-Case Diagramm
-Neuerstellen des Diagramms, da erste Fassung zu primitiv war
+### Interview mit Herrn Burggraf zu Phase 1 -> Use-Case Diagramm
+Neuerstellen des Diagramms, da erste Fassung nicht umfassend genug war
 
-nach Erstellung Verschönerungsarbeiten am Dokument durchgeführt
+nach Erstellung Verschönerungsarbeiten am Diagramm durchgeführt
 
 ### Überarbeiten der MKDocs-Dokumentation
 Weiterführung der angefangenen Dokumentation
@@ -47,7 +47,7 @@ Triangulierte Oberflächen; vermeidet Redundanzen
 
 #### .stp, .step
 
-Standard for the Exchange of Product model data
+Standard für Austausch von Produktmodelldaten
 
 #### .vda
 
@@ -56,20 +56,20 @@ Primär zum Austausch von Karosseriedaten und Gussteilen
 ############################################################################
 
 .dxf      ASCII- oder binäres Dateiformat zum Austausch von Vektordaten zwischen CAD-Programmen
-		  Von Autodesk entwickelt, spielt es vor allen Dingen als Schnittstelle von und nach AutoCAD eine Rolle
-		  Ist zu verwenden beim Digitalisieren von "Analog-Grundrissen (.PDF)"
+		  Von Autodesk entwickelt, spielt es vorallem als Schnittstelle von und nach AutoCAD eine Rolle
+		  Wird zum Digitalisieren von "Analog-Grundrissen (.PDF)" verwendet
 
-Grundriss Allplan ArchiCAD  AutoCAD nutzen .DWG
+Grundriss Allplan ArchiCAD AutoCAD nutzen .DWG
 
 Raumplan .dwg Drawing (.PLN ArchiCAD) (AllPlan-Dateien .NDW)
 
 
-Netzwerkplan .IFC Industry Foundation Classes (IFC) nicht-proprietäre BIM-Format Sollte für den Austausch mit KD verwendet werden bei 3D Dateien
+Netzwerkplan .IFC (Industry Foundation Classes) nicht-proprietäre BIM-Format Sollte für den Austausch mit KD verwendet werden bei 3D Dateien
 
 Haupt-CAD-Programm: AllPlan da am meisten Pluripotent bei den verschiedenen Dateiformaten
 
 
-Nach Absprache mit Burgraf
+Nach Absprache mit Herrn Burggraf
 Wir gehen davon aus, dass im AD bereits Benutzergruppen existieren und die SQL-DB mit dem AD Synchronisiert ist.
 SQL befehle für den Abgleich???
--	Benutzer werden erst im AD Angelegt und dann den Benutzergruppen zugeordnet
+-	Benutzer werden erst im AD angelegt und dann den Benutzergruppen zugeordnet
