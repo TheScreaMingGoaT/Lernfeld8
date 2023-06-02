@@ -80,3 +80,13 @@ Notizen:
 Windows Gruppenkonten verwenden
 beschreiben wie die Syncronisierung funktionieren würde zwischen AllPlan und der Datenbank, wenn die Datenbank AD-Syncronisiert ist
 Laut Burgraf mit libary(welche wir verwenden würden) bsp. ggf code beispielen(optional) 
+Allplan NEVARIS heist die DB Schneittstelle von allplan 
+
+
+Aufgabenstellung: Definieren Sie die Schnittstelle zwischen eigenen Software-Anwendungen und der gewählten Nutzerverwaltung.
+
+Vorgehensweise: zunächst werden die Benutzer im AD (Active Diractory) angelegt. Zuvor oder danach werden benutzergruppen angelegt und die Benutzer in diese Gruppen hinzugefügt (siehe Zugriffsrechte in der Exceltabelle.
+Danach melden wir uns am SQL-Server Management Studio an und erweitern die Datenbank um die von uns gewünschte Funktion der Archivierung/Verwaltung der CAD Dateien.
+Dazu benutzen wir Allplan connect welches eine Schnittstelle unseres CAD Programmes ist und die Anbindung zur SQL Datenbank unterstützt. Dies erfolgt über die Allplan Connect-Einstellungen bei welcher wir den Datenbanktyp SQL auswählen müssen, um danach die Verbindung zum DB-Server in unserem lokalen Netzwerk aufbauen zu können.
+Nach erfolgreicher Anmeldung auf dem DB-Server
+
