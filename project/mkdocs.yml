@@ -73,3 +73,10 @@ Nach Absprache mit Herrn Burggraf
 Wir gehen davon aus, dass im AD bereits Benutzergruppen existieren und die SQL-DB mit dem AD Synchronisiert ist.
 SQL befehle für den Abgleich???
 -	Benutzer werden erst im AD angelegt und dann den Benutzergruppen zugeordnet
+
+
+Phase 6
+Notizen:
+Windows Gruppenkonten verwenden
+beschreiben wie die Syncronisierung funktionieren würde zwischen AllPlan und der Datenbank, wenn die Datenbank AD-Syncronisiert ist
+Laut Burgraf mit libary bsp. ggf 
